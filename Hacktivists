@@ -1,0 +1,77 @@
+# Hacktivists
+
+---
+
+## What Are They?
+
+Attackers motivated by **ideology or politics** — trying to right a wrong or expose perceived injustice.
+
+---
+
+## Key Characteristics
+
+**Funding:** Least funded — usually volunteer-based
+
+**Skill Level:** Varies widely — some very skilled, many are not
+
+**Motivation:** Political, social, or ideological causes
+
+**Organization:** Loosely organized groups or movements
+
+---
+
+## Primary Goals
+
+**Expose Injustice:**
+```
+Leak documents, emails, or data that reveals wrongdoing
+```
+When they do this: When they believe an organization or government is hiding something.
+
+---
+
+**Publicity / Make a Statement:**
+```
+Deface websites, DDoS attacks, social media takeovers
+```
+When they do this: To draw attention to their cause and embarrass targets.
+
+---
+
+**Ideological Statement:**
+```
+Attack organizations that conflict with their beliefs
+```
+When they do this: During political events, controversies, or social movements.
+
+---
+
+## How They Operate
+
+- **DDoS attacks** — flood websites to take them offline
+- **Website defacement** — replace site content with their message
+- **Data leaks** — steal and publish internal documents
+- **Doxxing** — expose personal information of targets
+- Often use **publicly available tools** (low sophistication)
+- Coordinate through social media and encrypted messaging
+
+---
+
+## How to Defend Against Them
+
+- DDoS protection services (Cloudflare, Akamai, etc.)
+- Web application firewalls (WAF)
+- Regular security patches
+- Monitor social media for threats against your organization
+- Strong access controls to prevent data leaks
+- Public relations plan for if you're targeted
+
+---
+
+## When to Worry About Hacktivists
+
+- Your organization is involved in controversial topics
+- You're in politics, law enforcement, or government
+- Your company has been in the news negatively
+- You operate in industries hacktivists oppose (oil, arms, etc.)
+- During major political events or social movements

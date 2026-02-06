@@ -1,0 +1,83 @@
+# Nation-State Actors
+
+---
+
+## What Are They?
+
+Government-backed hacking groups with unlimited resources.
+
+---
+
+## Key Characteristics
+
+**Funding:** Highest — backed by government budgets
+
+**Skill Level:** Highly skilled, highly organized
+
+**Stealth:** Very stealthy and persistent
+
+**Resources:** Unlimited — dedicated teams, custom tools, zero-days
+
+---
+
+## Primary Goals
+
+**Espionage:**
+```
+Steal military secrets, government intel, diplomatic communications
+```
+When they do this: Ongoing — nation-states constantly spy on each other.
+
+---
+
+**Intellectual Property Theft:**
+```
+Steal R&D data, patents, trade secrets from companies
+Example: Steal nuclear submarine designs instead of spending billions on their own research
+```
+When they do this: When it's cheaper to steal than to develop.
+
+---
+
+**Disruption of Critical Infrastructure:**
+```
+Target power grids, water systems, financial networks, hospitals
+```
+When they do this: During geopolitical conflicts or as preparation for future attacks.
+
+---
+
+**Building Botnets:**
+```
+Compromise thousands/hundreds of thousands of systems for future large-scale attacks
+```
+When they do this: Ongoing — stockpiling access for when they need it.
+
+---
+
+## How They Operate
+
+- Use **custom malware** and **zero-day exploits**
+- Can stay hidden in networks for **months or years** (APT — Advanced Persistent Threat)
+- Target specific organizations with **spear-phishing** and **supply chain attacks**
+- Often disguise their attacks to look like other threat actors
+
+---
+
+## How to Defend Against Them
+
+- Network segmentation and zero-trust architecture
+- Advanced threat detection (EDR/XDR)
+- Regular threat hunting
+- Patch management (reduce zero-day exposure)
+- Employee security awareness training
+- Focus on espionage protection for IP-heavy organizations
+
+---
+
+## When to Worry About Nation-States
+
+- You work in defense, government, or critical infrastructure
+- Your organization holds valuable intellectual property
+- You're in aerospace, energy, finance, or healthcare
+- You operate in geopolitically sensitive regions

@@ -1,0 +1,93 @@
+# Funding vs Sophistication
+
+---
+
+## Funding Levels
+
+**Best-funded:** Nation-state actors (government budgets — unlimited)
+
+**Also well-funded:** Cyber criminals (profit-driven reinvestment)
+
+**Least funded:** Hacktivists (usually volunteer-based)
+
+**N/A:** Insider threats (already have access — don't need funding)
+
+---
+
+## Key Insight
+
+Funding does **NOT** always equal sophistication.
+
+---
+
+## Why Low Budget Can Still Be Dangerous
+
+**Free/Open-Source Tools:**
+```
+Attackers use free tools like Nmap, Metasploit, Burp Suite
+```
+These are the same tools security professionals use — freely available to anyone.
+
+---
+
+**Living-Off-the-Land Techniques:**
+```
+Use legitimate admin tools (PowerShell, WMI, PsExec) for malicious purposes
+```
+What it means: No need for custom malware — they use what's already on the system.
+Why it's dangerous: Security tools often don't flag legitimate admin tools as threats.
+
+---
+
+**Exploiting Existing System Features:**
+```
+Abuse built-in OS features, scheduled tasks, registry, group policy
+```
+What it means: The attack uses the system's own tools against it — zero cost.
+
+---
+
+## Sophistication by Actor Type
+
+**Nation-State:**
+```
+Sophistication: Very High
+Funding: Very High
+Custom zero-days, APT campaigns, supply chain attacks
+```
+
+---
+
+**Cyber Criminals:**
+```
+Sophistication: Medium to High
+Funding: High (profit-driven)
+Ransomware-as-a-Service, phishing kits, dark web tools
+```
+
+---
+
+**Hacktivists:**
+```
+Sophistication: Low to Medium
+Funding: Low
+DDoS tools, website defacement, publicly available exploits
+```
+
+---
+
+**Insider Threats:**
+```
+Sophistication: Low (usually)
+Funding: N/A
+Already have access — don't need technical skills to cause damage
+```
+
+---
+
+## When to Consider This
+
+- Don't assume low-budget attackers are low-risk
+- Defend against techniques, not just actor types
+- Living-off-the-land attacks require behavioral detection, not just signature-based tools
+- Even unsophisticated insiders can cause massive damage with legitimate access

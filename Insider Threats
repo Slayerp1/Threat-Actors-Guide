@@ -1,0 +1,103 @@
+# Insider Threats
+
+---
+
+## What Are They?
+
+Threats from **inside** your organization — employees, contractors, or partners with legitimate access.
+
+---
+
+## Key Characteristics
+
+**Funding:** N/A — they already have access
+
+**Skill Level:** Varies — often not technical hackers at all
+
+**Motivation:** Usually NOT malicious — trying to be productive
+
+**Danger:** Very high — they bypass perimeter defenses because they're already inside
+
+---
+
+## Two Types
+
+**Intentional (Malicious):**
+```
+Disgruntled employee stealing data, sabotaging systems, selling access
+```
+When this happens: After being fired, passed over for promotion, or recruited by competitors.
+
+---
+
+**Unintentional (Accidental):**
+```
+Employee trying to "do good" but creating security risks
+```
+When this happens: Most of the time — this is far more common than malicious insiders.
+
+---
+
+## Primary Goals
+
+**Malicious Insiders:**
+```
+Steal data for personal gain
+Sabotage systems for revenge
+Sell access to outside attackers
+```
+
+---
+
+**Unintentional Insiders:**
+```
+Get the job done faster (bypass security controls)
+Use unauthorized tools or services
+Make honest mistakes (click phishing links, misconfigure systems)
+```
+
+---
+
+## Common Example — Shadow IT
+
+```
+Technical employee sets up unauthorized server, network, or firewall rule
+to "get the job done" faster without going through proper channels
+```
+Why it's dangerous:
+- Creates undocumented vulnerabilities
+- Not reviewed by security team
+- When the person leaves → no one knows how to maintain or secure it
+- Often discovered years later ("Who set this up?")
+
+---
+
+## How They Operate
+
+- **Already have legitimate access** — no need to break in
+- **Know internal systems** — know where the valuable data is
+- **Bypass security tools** — firewalls don't stop internal threats
+- **Actions look normal** — hard to distinguish from regular work
+
+---
+
+## How to Defend Against Them
+
+- **Least privilege** — give users only the access they need
+- **Monitor user activity** — watch for unusual data access patterns
+- **DLP (Data Loss Prevention)** — prevent unauthorized data transfers
+- **Offboarding procedures** — immediately revoke access when employees leave
+- **Security awareness training** — reduce unintentional mistakes
+- **Change management** — require approval for system changes
+- **Regular access reviews** — verify who has access to what
+
+---
+
+## When to Worry About Insider Threats
+
+- Always — every organization has insiders
+- During layoffs or organizational changes
+- When employees have access to sensitive data
+- If you don't have proper offboarding procedures
+- If there's no monitoring of user activity
+- When technical staff make unauthorized changes

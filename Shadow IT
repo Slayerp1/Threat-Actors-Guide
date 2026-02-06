@@ -1,0 +1,110 @@
+# Shadow IT — A Common Insider Threat
+
+---
+
+## Definition
+
+Technical employees/contractors deploy unauthorized systems, networks, firewall rules, or tools to "get the job done" faster without coordination.
+
+---
+
+## Why People Do It
+
+```
+Employee needs something done quickly
+Official process is slow or bureaucratic
+They set up their own solution without telling security team
+```
+When this happens: Very common in organizations with slow IT processes.
+
+---
+
+## Why It's Dangerous
+
+**Creates undocumented vulnerabilities:**
+```
+Unauthorized servers, open ports, or firewall rules that security doesn't know about
+```
+What it means: Holes in your security that nobody is monitoring.
+
+---
+
+**Not reviewed by security team:**
+```
+No security assessment, no hardening, no monitoring
+```
+What it means: These systems are likely misconfigured and vulnerable.
+
+---
+
+**Knowledge leaves with the person:**
+```
+When the employee/contractor leaves → no one knows how to maintain or secure it
+```
+What it means: Orphaned systems that nobody understands or manages.
+
+---
+
+**Discovered years later:**
+```
+"Who set this up?" "Why is this server here?" "What does this firewall rule do?"
+```
+What it means: By the time it's found, it could have been exploited already.
+
+---
+
+## Real-World Impact
+
+Many shadow IT setups become **forgotten backdoors** or **misconfigurations** that attackers discover and exploit.
+
+---
+
+## How to Prevent Shadow IT
+
+**Change management process:**
+```
+Require approval for any new systems, services, or network changes
+```
+When to implement: Before it becomes a problem — make it part of company policy.
+
+---
+
+**Regular network scanning:**
+```
+Scan your network for unauthorized devices and services
+```
+When to do this: Weekly or monthly — catch shadow IT early.
+
+---
+
+**Asset inventory:**
+```
+Maintain a list of all authorized systems, services, and firewall rules
+```
+When to do this: Continuously — keep it up to date.
+
+---
+
+**Make the official process easier:**
+```
+If employees bypass security because the process is too slow, fix the process
+```
+When to do this: When you notice people going around the system.
+
+---
+
+**Education:**
+```
+Train employees on why unauthorized changes are dangerous
+```
+When to do this: During onboarding and regular security awareness training.
+
+---
+
+## When to Worry About Shadow IT
+
+- Your IT request process is slow or frustrating
+- You have technical employees with admin access
+- Contractors have access to your infrastructure
+- You haven't done a full network audit recently
+- You find systems or rules nobody can explain

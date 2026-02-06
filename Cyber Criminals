@@ -1,0 +1,92 @@
+# Cyber Criminals
+
+---
+
+## What Are They?
+
+Attackers motivated purely by **financial gain**.
+
+---
+
+## Key Characteristics
+
+**Funding:** Well-funded (reinvest profits to improve attacks)
+
+**Skill Level:** Varies — from script kiddies to highly skilled groups
+
+**Motivation:** Money — steal it directly or through ransomware, fraud, etc.
+
+**Organization:** Can range from lone hackers to organized crime syndicates
+
+---
+
+## Primary Goals
+
+**Ransomware:**
+```
+Encrypt victim's files → Demand payment to decrypt
+```
+When they do this: Targeting any organization — hospitals, schools, businesses, governments.
+
+---
+
+**Direct Financial Theft:**
+```
+Steal money from bank accounts, payment systems, cryptocurrency wallets
+```
+When they do this: When they can access financial systems or credentials.
+
+---
+
+**Data Theft for Sale:**
+```
+Steal personal data, credit cards, medical records → Sell on dark web
+```
+When they do this: After breaching databases with valuable personal information.
+
+---
+
+**Business Email Compromise (BEC):**
+```
+Impersonate executives → Trick employees into transferring money
+```
+When they do this: Targeting companies with large financial transactions.
+
+---
+
+**Fraud:**
+```
+Identity theft, tax fraud, insurance fraud using stolen data
+```
+When they do this: After obtaining personal information from breaches.
+
+---
+
+## How They Operate
+
+- Use **phishing** as the primary initial access method
+- Buy/sell tools and access on **dark web marketplaces**
+- Operate as **Ransomware-as-a-Service (RaaS)** — rent attack tools to affiliates
+- Reinvest profits into better tools and techniques
+- Often target the **easiest victims** (poor security = easy money)
+
+---
+
+## How to Defend Against Them
+
+- Email security and anti-phishing training
+- Regular backups (offline/immutable for ransomware protection)
+- Multi-factor authentication (MFA) everywhere
+- Patch management
+- Network monitoring for suspicious activity
+- Incident response plan ready to execute
+
+---
+
+## When to Worry About Cyber Criminals
+
+- Every organization is a target — they go for easy money
+- You handle financial transactions or customer payment data
+- You store personal information (PII, medical records)
+- You have weak email security or no MFA
+- Your backup strategy hasn't been tested
